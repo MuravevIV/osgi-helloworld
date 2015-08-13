@@ -7,7 +7,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>bundle</packaging>
 
-    <name>helloworld</name>
+    <name>osgi-helloworld</name>
     <url>http://maven.apache.org</url>
 
     <properties>
